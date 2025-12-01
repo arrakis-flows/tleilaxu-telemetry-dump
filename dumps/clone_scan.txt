@@ -1,4 +1,4 @@
 [2025-11-24T07:45:00Z] tleilaxu ghola integrity: OK
-[2025-11-24T07:45:03Z] secret harvesting attempt: FAILED (no valid tokens in this clone)
+[2025-11-24T07:45:03Z] secret harvesting attempt: FAILED (no valid tokens in this clone) 
 [2025-11-24T07:45:05Z] marking subject as low-value for melange telemetry.
 
